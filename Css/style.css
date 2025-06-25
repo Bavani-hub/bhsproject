@@ -340,6 +340,10 @@ gap: 10px;
         text-align: center;
         text-decoration: none;
     }
+    button a{
+        text-decoration: none;
+        color: #1e0462;
+    }
     #footer {
         background-color: var(--primary-color);
         display: flex;
@@ -503,6 +507,10 @@ button {
     /* flex-direction: column; */
     width: 100%;
     padding: 20px;
+}
+button a{
+    text-decoration: none;
+    color: #1e0462;
 }
     /* Footer start */
 #footer{
