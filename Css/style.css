@@ -35,6 +35,7 @@ p {
 }
 .navbar .wrapper{
     display: flex;
+    gap: 200px;
     align-items: center;
 }
 .navbar .wrappper button a{
@@ -49,6 +50,7 @@ button {
 }
 button a{
     text-decoration: none;
+    color: #1e0462;
 }
 .menu {
     list-style: none;
