@@ -38,6 +38,9 @@ p {
     gap: 200px;
     align-items: center;
 }
+.navbar .wrappper button a{
+    text-decoration: none;
+}
 button {
     background-color: rgb(152, 213, 174);
     color: #1e0462;
@@ -295,7 +298,10 @@ gap: 10px;
         flex-direction: column;
         gap: 15px;
     }
-
+    .navbar .wrapper{
+        display: flex;
+        align-items: center;
+    }
     .menu {
         flex-direction: column;
         gap: 15px;
